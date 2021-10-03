@@ -2,7 +2,7 @@
 
 This repository includes configuration for a development container for working with Code - OSS in a local container or using [GitHub Codespaces](https://github.com/features/codespaces).
 
-> **Tip:** The default VNC password is `vscode`. The VNC server runs on port `5901` and a web client is available on port `6080`.
+> **Tip:** The default VNC password is `vscode`. The VNC server runs on port `5901` and a web client is available on port `8080`.
 
 ## Quick start - local
 
